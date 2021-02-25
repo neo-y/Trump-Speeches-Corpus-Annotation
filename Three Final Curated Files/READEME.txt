@@ -1,2 +1,6 @@
 This folder contains the 3 files which contains manually correction and annotations. 
 The correction and annotation are done via WebAnno.
+
+TexasSep23_completed.tsv - lemma, pos, named entity, coference manually corrected and annotated
+CharlotteMar2_completed.tsv - named entity, coreference manually done
+YumaAug18_completed.tsv - named entity, coreference manually done
