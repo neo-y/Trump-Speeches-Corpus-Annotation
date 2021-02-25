@@ -1,0 +1,2 @@
+This folder contains the 3 files which contains manually correction and annotations. 
+The correction and annotation are done via WebAnno.
